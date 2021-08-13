@@ -177,7 +177,25 @@ class _Profile1State extends State<Profile1> {
                 ),
               ),
 
-
+              Padding(
+                padding: const EdgeInsets.all(8.0),
+                child: TextFormField(
+                  controller: userinterest,
+                  validator: (String value){
+                    if(value.isEmpty){
+                      return 'This field cannot be empty';
+                    }
+                    return null;
+                  },
+                  decoration: InputDecoration(
+                    labelText: 'Area of Interest',
+                    hintText: 'Enter your area of interest',
+                    border: OutlineInputBorder(
+                        borderRadius: BorderRadius.circular(20.0)
+                    ),
+                  ),
+                ),
+              ),
               Padding(
                 padding: const EdgeInsets.all(8.0),
                 child: Center(
