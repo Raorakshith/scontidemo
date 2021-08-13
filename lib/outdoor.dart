@@ -11,7 +11,7 @@ class outdoor extends StatefulWidget {
 
 class _outdoorState extends State<outdoor> {
   List<RecommendItems> postsList = [];
-  final reference = FirebaseDatabase.instance.reference().child("knowledge");
+  final reference = FirebaseDatabase.instance.reference().child("outdoor");
 
   @override
   void initState() {

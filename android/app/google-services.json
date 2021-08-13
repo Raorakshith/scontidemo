@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "908191339956",
+    "firebase_url": "https://phoneotp-4cc70.firebaseio.com",
+    "project_id": "phoneotp-4cc70",
+    "storage_bucket": "phoneotp-4cc70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908191339956:android:2b1dae3d55404f71e20ee1",
+        "android_client_info": {
+          "package_name": "com.example.hotelmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908191339956-40ofq43gqs0q3onuaueomkkcfh2pv83b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL1ozwkLLKOJ8YGqZPuWtBubKmfXkyHkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908191339956-40ofq43gqs0q3onuaueomkkcfh2pv83b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908191339956:android:6ecb09902eb5db92e20ee1",
+        "android_client_info": {
+          "package_name": "com.example.scontidemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908191339956-nbshsf3lnalon83nvv0k6sjogs7uq45g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.scontidemo",
+            "certificate_hash": "0fdee664f07ffec5f7f36fb208280e818069f541"
+          }
+        },
+        {
+          "client_id": "908191339956-40ofq43gqs0q3onuaueomkkcfh2pv83b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL1ozwkLLKOJ8YGqZPuWtBubKmfXkyHkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908191339956-40ofq43gqs0q3onuaueomkkcfh2pv83b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908191339956:android:519da8cc1540b67ee20ee1",
+        "android_client_info": {
+          "package_name": "com.example.smarthome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908191339956-se0lce6iukgrq24r6dldhtj6otptnij4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smarthome",
+            "certificate_hash": "0fdee664f07ffec5f7f36fb208280e818069f541"
+          }
+        },
+        {
+          "client_id": "908191339956-40ofq43gqs0q3onuaueomkkcfh2pv83b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL1ozwkLLKOJ8YGqZPuWtBubKmfXkyHkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908191339956-40ofq43gqs0q3onuaueomkkcfh2pv83b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

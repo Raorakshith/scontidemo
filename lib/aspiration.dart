@@ -11,7 +11,7 @@ class aspiration extends StatefulWidget {
 
 class _aspirationState extends State<aspiration> {
   List<RecommendItems> postsList = [];
-  final reference = FirebaseDatabase.instance.reference().child("knowledge");
+  final reference = FirebaseDatabase.instance.reference().child("aspiration");
 
   @override
   void initState() {

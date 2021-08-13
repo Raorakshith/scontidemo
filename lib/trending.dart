@@ -11,7 +11,7 @@ class trending extends StatefulWidget {
 
 class _trendingState extends State<trending> {
   List<RecommendItems> postsList = [];
-  final reference = FirebaseDatabase.instance.reference().child("knowledge");
+  final reference = FirebaseDatabase.instance.reference().child("trending");
 
   @override
   void initState() {
